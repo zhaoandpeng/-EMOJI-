@@ -1,0 +1,73 @@
+#AnyChatLocalVideoDiv  
+{  
+    margin:0 25% 0 25%;  
+    padding: 10px 10px;  
+    border-style:dashed;  
+    height:500px;  
+}  
+#header  
+{  
+    margin: 0 atuo;  
+    height: 100px;  
+    border-style:dashed;  
+    text-align:center;  
+}  
+#search  
+{  
+    margin: 10px 0;  
+    border-style:dashed;  
+    height :50%;  
+    width:45%;  
+    float:left;  
+}  
+#search2  
+{  
+    margin: 10px 0;  
+    border-style:dashed;  
+    height :50%;  
+    width:45%;  
+    float:right;  
+}
+#search3  
+{  
+    border-style:dashed;  
+    margin: 275px 0;  
+    height :22%;  
+    width:99%;  
+    float:center;  
+} 
+.className{
+  margin-left:55px;
+  margin-top:28px;
+  margin-right:115px;
+  line-height:40px;
+  height:40px;
+  width:100px;
+  color:#ffffff;
+  background-color:#4a8cf7;
+  font-size:16px;
+  font-weight:normal;
+  font-family:Arial;
+  border:0px solid #dcdcdc;
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -moz-box-shadow: inset 0px 0px 0px 0px #ffffff;
+  -webkit-box-shadow: inset 0px 0px 0px 0px #ffffff;
+  box-shadow: inset 0px 0px 0px 0px #ffffff;
+  text-align:center;
+  display:inline-block;
+  text-decoration:none;
+}
+.className:hover{
+  background-color:#4a8cf7;
+} 
