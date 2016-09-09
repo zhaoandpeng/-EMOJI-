@@ -1,7 +1,7 @@
 package cn.com.mrs.demo;
 
 import org.apache.commons.lang.StringUtils;
-
+//过滤手机端键盘打出的emoji表情
 public class Demo {
 
 	public static boolean containsEmoji(String source) {
